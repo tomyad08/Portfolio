@@ -42,6 +42,14 @@ const Portfolio = () => {
       deskripsi:
         "This project is the first game project to use multiple react hooks. On the front page, your eyes will be spoiled with a parallax effect.",
     },
+    {
+      id: 5,
+      nama: "Binar Car Rental",
+      gambar: "./assets/BCR-1.png",
+      alamat: "https://github.com/tomyad08/Binar-Car-Rental-v01",
+      deskripsi:
+        "This is my first practice project to create a car rental website using react js. The data displayed uses the API database provided by Binar Academy.",
+    },
   ];
   return (
     <div className="container-fluid" id="project" data-aos="fade-up">
